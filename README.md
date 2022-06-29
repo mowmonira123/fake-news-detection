@@ -1,5 +1,4 @@
-# cse475_project
-Project name : Fake News Detection
+Fake News Detection
 
 Course Name Machine Learning
 
